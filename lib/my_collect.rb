@@ -7,6 +7,6 @@ def my_collect(array)
   end
 end
 
-my_collect(collection) do |x|
+# my_collect(collection) do |x|
   
-end
+# end
